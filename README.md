@@ -15,4 +15,4 @@ Dataset Schema:
 <p align="left"> <img src="https://lh6.googleusercontent.com/ps0KE3yQqTKCax3okKC1E_A8XZ5HF7-B-ur36wk2pgoCpSEidBkUglQOpJ_K8XubsOrxR7aavukqYrZaSL1KcYUk4W4fpjdmdXjIW8dZ9Jh2zekC74LroDR90kJnE0pZk56mytqMfvxbd08PdA" alt="akash080799"/> </p>
 
 ### Conclusion:
-As a Aspiring data scientist, the given dataset was analyzed to extract valuable insights and provide actionable recommendations.
+As a Aspiring data scientist, the given dataset was analyzed to extract valuable insights and provide actionable recommendations. The insights, queries and actionable items can be found in the above attached pdf.
