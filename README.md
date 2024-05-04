@@ -1,7 +1,7 @@
-# SQL
+# Data Analysis using SQL
 This Space showcases the data analysis project done by leveraging the Power of Structured Query Language. 
 
-## Case Study 1:
+## Case Study 1: Bullseye Insights: Analyzing Retail market's Data with SQL
 
 The dataset below contains the data of one of the globally renowned brand and a prominent retailer in the United States. It is a preferred shopping destination for many as they offer outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.
 
