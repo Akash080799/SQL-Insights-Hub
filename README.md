@@ -1,5 +1,5 @@
 # SQL
-This Space showcases the data analysis projects done using SQL. 
+This Space showcases the data analysis project done by leveraging the Power of Structured Query Language. 
 
 ## Case Study 1:
 
